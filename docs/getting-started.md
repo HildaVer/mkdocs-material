@@ -136,7 +136,7 @@ The following plugins are bundled with the Docker image:
 
 Material for MkDocs can be directly used from [GitHub] by cloning the
 repository into a subfolder of your project root which might be useful if you
-want to use the very latest version:
+want to use the very latest version:ok
 
 ```
 git clone https://github.com/squidfunk/mkdocs-material.git
